@@ -1,0 +1,229 @@
+json.length:142694 words from csv base.
+found 6901 syllables.
+found 121105 gIndex (good-words).
+found 6901 syllables.
+generation:0 routes:1
+*******************************************
+next-gen(1) routes:1
+------------------------------
+--0 route[len:0] ()
+------------------------------
+suggestions for target:(cedimanchelesenfantsfêterontlespères)
+suggestions(ce) 35=> [
+     'ce',   'ces',  'cent',
+  'cents',   'cen',  'cens',
+   'cend',   'cep',  'ceps',
+   'cept', 'cepts',   'cer',
+   'cers',  'cerf',  'cert',
+  'certs',  'ceur', 'ceurs',
+    'ceu',  'ceux',  'ceul',
+  'ceuls',   'cez',   'cel',
+    'cec',  'ceau', 'ceaux',
+    'cet',  'cets',   'cei',
+   'cein', 'ceins', 'ceint',
+    'ceâ',   'cem'
+]
+pat[1:35]:(ces) not fit in cedimanchelesenfantsfêterontlespères
+pat[2:35]:(cent) not fit in cedimanchelesenfantsfêterontlespères
+pat[3:35]:(cents) not fit in cedimanchelesenfantsfêterontlespères
+pat[4:35]:(cen) not fit in cedimanchelesenfantsfêterontlespères
+pat[5:35]:(cens) not fit in cedimanchelesenfantsfêterontlespères
+pat[6:35]:(cend) not fit in cedimanchelesenfantsfêterontlespères
+pat[7:35]:(cep) not fit in cedimanchelesenfantsfêterontlespères
+pat[8:35]:(ceps) not fit in cedimanchelesenfantsfêterontlespères
+pat[9:35]:(cept) not fit in cedimanchelesenfantsfêterontlespères
+pat[10:35]:(cepts) not fit in cedimanchelesenfantsfêterontlespères
+pat[11:35]:(cer) not fit in cedimanchelesenfantsfêterontlespères
+pat[12:35]:(cers) not fit in cedimanchelesenfantsfêterontlespères
+pat[13:35]:(cerf) not fit in cedimanchelesenfantsfêterontlespères
+pat[14:35]:(cert) not fit in cedimanchelesenfantsfêterontlespères
+pat[15:35]:(certs) not fit in cedimanchelesenfantsfêterontlespères
+pat[16:35]:(ceur) not fit in cedimanchelesenfantsfêterontlespères
+pat[17:35]:(ceurs) not fit in cedimanchelesenfantsfêterontlespères
+pat[18:35]:(ceu) not fit in cedimanchelesenfantsfêterontlespères
+pat[19:35]:(ceux) not fit in cedimanchelesenfantsfêterontlespères
+pat[20:35]:(ceul) not fit in cedimanchelesenfantsfêterontlespères
+pat[21:35]:(ceuls) not fit in cedimanchelesenfantsfêterontlespères
+pat[22:35]:(cez) not fit in cedimanchelesenfantsfêterontlespères
+pat[23:35]:(cel) not fit in cedimanchelesenfantsfêterontlespères
+pat[24:35]:(cec) not fit in cedimanchelesenfantsfêterontlespères
+pat[25:35]:(ceau) not fit in cedimanchelesenfantsfêterontlespères
+pat[26:35]:(ceaux) not fit in cedimanchelesenfantsfêterontlespères
+pat[27:35]:(cet) not fit in cedimanchelesenfantsfêterontlespères
+pat[28:35]:(cets) not fit in cedimanchelesenfantsfêterontlespères
+pat[29:35]:(cei) not fit in cedimanchelesenfantsfêterontlespères
+pat[30:35]:(cein) not fit in cedimanchelesenfantsfêterontlespères
+pat[31:35]:(ceins) not fit in cedimanchelesenfantsfêterontlespères
+pat[32:35]:(ceint) not fit in cedimanchelesenfantsfêterontlespères
+pat[33:35]:(ceâ) not fit in cedimanchelesenfantsfêterontlespères
+pat[34:35]:(cem) not fit in cedimanchelesenfantsfêterontlespères
+new-route[0] status len:2 (ce) penalty:0
+before add-route
+---------dump-routes----------------
+-- routes[0] len:0 () _route[0]:undefined
+------------------------------------
+add-route pat:(ce) new penalty:0
+add-route context: @len:2 routes:0 min_penalty:99999
+after add-route
+---------dump-routes----------------
+-- routes[0] len:0 () _route[0]:undefined
+-- routes[1] len:2 (ce) _route[2]:1
+------------------------------------
+>> leaving gen:1 with 2 routes
+>> ###0 
+>> ###1 ce
+generation:1 routes:2
+*******************************************
+next-gen(2) routes:2
+------------------------------
+--0 route[len:0] ()
+--1 route[len:2] (ce)
+------------------------------
+suggestions for target:(cedimanchelesenfantsfêterontlespères)
+suggestions(ce) 35=> [
+     'ce',   'ces',  'cent',
+  'cents',   'cen',  'cens',
+   'cend',   'cep',  'ceps',
+   'cept', 'cepts',   'cer',
+   'cers',  'cerf',  'cert',
+  'certs',  'ceur', 'ceurs',
+    'ceu',  'ceux',  'ceul',
+  'ceuls',   'cez',   'cel',
+    'cec',  'ceau', 'ceaux',
+    'cet',  'cets',   'cei',
+   'cein', 'ceins', 'ceint',
+    'ceâ',   'cem'
+]
+pat[1:35]:(ces) not fit in cedimanchelesenfantsfêterontlespères
+pat[2:35]:(cent) not fit in cedimanchelesenfantsfêterontlespères
+pat[3:35]:(cents) not fit in cedimanchelesenfantsfêterontlespères
+pat[4:35]:(cen) not fit in cedimanchelesenfantsfêterontlespères
+pat[5:35]:(cens) not fit in cedimanchelesenfantsfêterontlespères
+pat[6:35]:(cend) not fit in cedimanchelesenfantsfêterontlespères
+pat[7:35]:(cep) not fit in cedimanchelesenfantsfêterontlespères
+pat[8:35]:(ceps) not fit in cedimanchelesenfantsfêterontlespères
+pat[9:35]:(cept) not fit in cedimanchelesenfantsfêterontlespères
+pat[10:35]:(cepts) not fit in cedimanchelesenfantsfêterontlespères
+pat[11:35]:(cer) not fit in cedimanchelesenfantsfêterontlespères
+pat[12:35]:(cers) not fit in cedimanchelesenfantsfêterontlespères
+pat[13:35]:(cerf) not fit in cedimanchelesenfantsfêterontlespères
+pat[14:35]:(cert) not fit in cedimanchelesenfantsfêterontlespères
+pat[15:35]:(certs) not fit in cedimanchelesenfantsfêterontlespères
+pat[16:35]:(ceur) not fit in cedimanchelesenfantsfêterontlespères
+pat[17:35]:(ceurs) not fit in cedimanchelesenfantsfêterontlespères
+pat[18:35]:(ceu) not fit in cedimanchelesenfantsfêterontlespères
+pat[19:35]:(ceux) not fit in cedimanchelesenfantsfêterontlespères
+pat[20:35]:(ceul) not fit in cedimanchelesenfantsfêterontlespères
+pat[21:35]:(ceuls) not fit in cedimanchelesenfantsfêterontlespères
+pat[22:35]:(cez) not fit in cedimanchelesenfantsfêterontlespères
+pat[23:35]:(cel) not fit in cedimanchelesenfantsfêterontlespères
+pat[24:35]:(cec) not fit in cedimanchelesenfantsfêterontlespères
+pat[25:35]:(ceau) not fit in cedimanchelesenfantsfêterontlespères
+pat[26:35]:(ceaux) not fit in cedimanchelesenfantsfêterontlespères
+pat[27:35]:(cet) not fit in cedimanchelesenfantsfêterontlespères
+pat[28:35]:(cets) not fit in cedimanchelesenfantsfêterontlespères
+pat[29:35]:(cei) not fit in cedimanchelesenfantsfêterontlespères
+pat[30:35]:(cein) not fit in cedimanchelesenfantsfêterontlespères
+pat[31:35]:(ceins) not fit in cedimanchelesenfantsfêterontlespères
+pat[32:35]:(ceint) not fit in cedimanchelesenfantsfêterontlespères
+pat[33:35]:(ceâ) not fit in cedimanchelesenfantsfêterontlespères
+pat[34:35]:(cem) not fit in cedimanchelesenfantsfêterontlespères
+
+          --1 route[len:2] status (ce) penalty:0
+          alternative routes:1 min_penalty:99999
+          
+suggestions for target:(dimanchelesenfantsfêterontlespères)
+suggestions(di) 73=> [
+     'di',   'die',  'diez',  'dies',  'dien',
+  'diens', 'dient',  'dieu', 'dieux',  'dier',
+  'diers',  'dief',  'diem',  'diep',   'dir',
+    'dis', 'dions',  'dion',   'dio',  'dios',
+   'diou',  'dioï',  'diop', 'dioxi',  'diot',
+  'diots',  'dioé',   'dia',  'diae',  'diai',
+  'diait', 'diais', 'diant',  'dian', 'dians',
+   'dial', 'diaux',  'diau',  'diag',  'diam',
+   'diar',  'dias',  'diat', 'diats',  'diak',
+    'dic',  'dics',  'dict', 'dicts',   'dit',
+   'dits',   'din',  'dins',  'ding',   'dil',
+    'diè',  'dium',  'diur',   'diu',  'dius',
+    'dié',  'diée', 'diées',  'diés',   'dif',
+    'dik',   'dip',   'dix', 'dixie', 'dixit',
+  'dixiè',   'dim',   'dig'
+]
+pat[1:73]:(die) not fit in dimanchelesenfantsfêterontlespères
+pat[2:73]:(diez) not fit in dimanchelesenfantsfêterontlespères
+pat[3:73]:(dies) not fit in dimanchelesenfantsfêterontlespères
+pat[4:73]:(dien) not fit in dimanchelesenfantsfêterontlespères
+pat[5:73]:(diens) not fit in dimanchelesenfantsfêterontlespères
+pat[6:73]:(dient) not fit in dimanchelesenfantsfêterontlespères
+pat[7:73]:(dieu) not fit in dimanchelesenfantsfêterontlespères
+pat[8:73]:(dieux) not fit in dimanchelesenfantsfêterontlespères
+pat[9:73]:(dier) not fit in dimanchelesenfantsfêterontlespères
+pat[10:73]:(diers) not fit in dimanchelesenfantsfêterontlespères
+pat[11:73]:(dief) not fit in dimanchelesenfantsfêterontlespères
+pat[12:73]:(diem) not fit in dimanchelesenfantsfêterontlespères
+pat[13:73]:(diep) not fit in dimanchelesenfantsfêterontlespères
+pat[14:73]:(dir) not fit in dimanchelesenfantsfêterontlespères
+pat[15:73]:(dis) not fit in dimanchelesenfantsfêterontlespères
+pat[16:73]:(dions) not fit in dimanchelesenfantsfêterontlespères
+pat[17:73]:(dion) not fit in dimanchelesenfantsfêterontlespères
+pat[18:73]:(dio) not fit in dimanchelesenfantsfêterontlespères
+pat[19:73]:(dios) not fit in dimanchelesenfantsfêterontlespères
+pat[20:73]:(diou) not fit in dimanchelesenfantsfêterontlespères
+pat[21:73]:(dioï) not fit in dimanchelesenfantsfêterontlespères
+pat[22:73]:(diop) not fit in dimanchelesenfantsfêterontlespères
+pat[23:73]:(dioxi) not fit in dimanchelesenfantsfêterontlespères
+pat[24:73]:(diot) not fit in dimanchelesenfantsfêterontlespères
+pat[25:73]:(diots) not fit in dimanchelesenfantsfêterontlespères
+pat[26:73]:(dioé) not fit in dimanchelesenfantsfêterontlespères
+pat[27:73]:(dia) not fit in dimanchelesenfantsfêterontlespères
+pat[28:73]:(diae) not fit in dimanchelesenfantsfêterontlespères
+pat[29:73]:(diai) not fit in dimanchelesenfantsfêterontlespères
+pat[30:73]:(diait) not fit in dimanchelesenfantsfêterontlespères
+pat[31:73]:(diais) not fit in dimanchelesenfantsfêterontlespères
+pat[32:73]:(diant) not fit in dimanchelesenfantsfêterontlespères
+pat[33:73]:(dian) not fit in dimanchelesenfantsfêterontlespères
+pat[34:73]:(dians) not fit in dimanchelesenfantsfêterontlespères
+pat[35:73]:(dial) not fit in dimanchelesenfantsfêterontlespères
+pat[36:73]:(diaux) not fit in dimanchelesenfantsfêterontlespères
+pat[37:73]:(diau) not fit in dimanchelesenfantsfêterontlespères
+pat[38:73]:(diag) not fit in dimanchelesenfantsfêterontlespères
+pat[39:73]:(diam) not fit in dimanchelesenfantsfêterontlespères
+pat[40:73]:(diar) not fit in dimanchelesenfantsfêterontlespères
+pat[41:73]:(dias) not fit in dimanchelesenfantsfêterontlespères
+pat[42:73]:(diat) not fit in dimanchelesenfantsfêterontlespères
+pat[43:73]:(diats) not fit in dimanchelesenfantsfêterontlespères
+pat[44:73]:(diak) not fit in dimanchelesenfantsfêterontlespères
+pat[45:73]:(dic) not fit in dimanchelesenfantsfêterontlespères
+pat[46:73]:(dics) not fit in dimanchelesenfantsfêterontlespères
+pat[47:73]:(dict) not fit in dimanchelesenfantsfêterontlespères
+pat[48:73]:(dicts) not fit in dimanchelesenfantsfêterontlespères
+pat[49:73]:(dit) not fit in dimanchelesenfantsfêterontlespères
+pat[50:73]:(dits) not fit in dimanchelesenfantsfêterontlespères
+pat[51:73]:(din) not fit in dimanchelesenfantsfêterontlespères
+pat[52:73]:(dins) not fit in dimanchelesenfantsfêterontlespères
+pat[53:73]:(ding) not fit in dimanchelesenfantsfêterontlespères
+pat[54:73]:(dil) not fit in dimanchelesenfantsfêterontlespères
+pat[55:73]:(diè) not fit in dimanchelesenfantsfêterontlespères
+pat[56:73]:(dium) not fit in dimanchelesenfantsfêterontlespères
+pat[57:73]:(diur) not fit in dimanchelesenfantsfêterontlespères
+pat[58:73]:(diu) not fit in dimanchelesenfantsfêterontlespères
+pat[59:73]:(dius) not fit in dimanchelesenfantsfêterontlespères
+pat[60:73]:(dié) not fit in dimanchelesenfantsfêterontlespères
+pat[61:73]:(diée) not fit in dimanchelesenfantsfêterontlespères
+pat[62:73]:(diées) not fit in dimanchelesenfantsfêterontlespères
+pat[63:73]:(diés) not fit in dimanchelesenfantsfêterontlespères
+pat[64:73]:(dif) not fit in dimanchelesenfantsfêterontlespères
+pat[65:73]:(dik) not fit in dimanchelesenfantsfêterontlespères
+pat[66:73]:(dip) not fit in dimanchelesenfantsfêterontlespères
+pat[67:73]:(dix) not fit in dimanchelesenfantsfêterontlespères
+pat[68:73]:(dixie) not fit in dimanchelesenfantsfêterontlespères
+pat[69:73]:(dixit) not fit in dimanchelesenfantsfêterontlespères
+pat[70:73]:(dixiè) not fit in dimanchelesenfantsfêterontlespères
+pat[72:73]:(dig) not fit in dimanchelesenfantsfêterontlespères
+new-route[0] status len:2 (ce) penalty:0
+before add-route
+---------dump-routes----------------
+-- routes[0] len:0 () _route[0]:undefined
+-- routes[1] len:2 (ce) _route[2]:1
+------------------------------------
